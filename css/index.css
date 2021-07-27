@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* header */
+
+.crud{
+    width: 1105px;
+    height: auto;
+    background: #fafafa;
+    border: 1px solid #ddd;
+    box-shadow: 1px 1px 1px 1px #ddd;#c5bbbb;
+    margin-left: 109px;
+    margin-top: 42px;
+}
+.crud_1{
+    height: 580px;
+}
+.crud_2{
+    height: 930px;
+}
+.crud_header{
+    width: 100%;
+    height: 70px;
+    background: #acbf8e;
+}
+.crud_header h1{
+    font-size: 37px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 307px;
+    font-weight: 700;
+    color: #fff;
+}
+
+/* menu */
+.crud_menu{
+    width: 100%;
+    height: 40px;
+    background: #464141;
+}
+.crud_menu ul{
+    list-style: none;
+}
+.crud_menu ul li{
+    display: inline-block;
+    padding: 7px 39px 3px 3px;
+}
+.crud_menu ul li a{
+    text-decoration: none;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 500;
+}
+.crud_menu ul li a:hover{
+    color: hotpink;
+}
+
+
+/* crud table */
+
+.crud_table{
+    width: 90%;
+    margin-left: 5%;
+}
+.crud_table h2{
+    text-align: center;
+    margin: 25px 134px 25px 1px;
+    font-size: 31px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #49a949;
+}
+ /*   Form */
+.crud_form{
+    width: 90%;
+    margin-left: 5%;
+}
+.crud_form h2{
+    text-align: center;
+    margin: 25px 134px 25px 1px;
+    font-size: 31px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #49a949;
+}
+.crud_form form{
+    width: 70%;
+    margin-left: 6%;
+    margin-top: 5%;
+    border: 1px solid #ddd;
+    padding: 55px;
+    height: 283px;
+    box-shadow: 1px 1px 10px 1px #ddd;
+    border-radius: 10px;
+}
+.crud_form form label{
+    font-weight: 500;
+}
+.crud_form form input{}
+
+.from_id{
+
+}
+
